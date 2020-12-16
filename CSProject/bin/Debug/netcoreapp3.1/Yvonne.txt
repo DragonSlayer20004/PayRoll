@@ -1,0 +1,11 @@
+PAYSLIP FOR 0 0
+====================
+Name of Staff: Yvonne
+Hours Worked: 160
+
+Basic Pay: $8,000.00
+Allowance: $0.00
+
+====================
+Total Pay: $8,000.00
+====================

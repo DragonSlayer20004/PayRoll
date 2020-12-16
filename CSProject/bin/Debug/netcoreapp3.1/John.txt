@@ -1,0 +1,11 @@
+PAYSLIP FOR 0 0
+====================
+Name of Staff: John
+Hours Worked: 145
+
+Basic Pay: $4,350.00
+Overtime: $0.00
+
+====================
+Total Pay: $4,350.00
+====================

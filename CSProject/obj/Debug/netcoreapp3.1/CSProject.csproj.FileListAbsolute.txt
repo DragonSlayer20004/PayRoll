@@ -1,0 +1,13 @@
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csprojAssemblyReference.cache
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfoInputs.cache
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfo.cs
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.exe
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.deps.json
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.json
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.dev.json
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.dll
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.pdb
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.dll
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.pdb
+C:\Users\22HinkleK\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.genruntimeconfig.cache
